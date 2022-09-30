@@ -1,0 +1,6 @@
+name: one-quickstart
+description: Pulumi Challenge One Quickstart to Rule them All
+runtime:
+    name: python
+    options:
+        virtualenv: venv
